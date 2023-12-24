@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="color_worst_tip">#F41300</color>
+    <color name="color_best_tip">#09F400</color>
 </resources>
